@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Services",
+  title: "Fixed-Scope Next.js Web Design for Studios",
 };
 
 export default function WebDesign() {
